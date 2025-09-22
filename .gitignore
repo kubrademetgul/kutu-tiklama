@@ -1,0 +1,18 @@
+# Flutter/Dart - exclude incomplete project structure
+lib/
+android/
+pubspec.yaml
+
+# Server logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Temporary files
+/tmp/
